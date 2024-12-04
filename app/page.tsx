@@ -52,7 +52,7 @@ export default function Home() {
                 text: "new task",
                 status: "finished",
               })
-            }
+            } 
             className="text-red"
           >
             Add Task
